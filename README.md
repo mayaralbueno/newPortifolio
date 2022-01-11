@@ -1,4 +1,6 @@
 
+
+-  📰 [Portfólio](https://optimistic-wiles-c863e5.netlify.app)
   <div style="display: inline_block"><br>
    <h2  > Tecnologias <h2>
 
